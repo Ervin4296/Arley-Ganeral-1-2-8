@@ -1,0 +1,38 @@
+
+</style>
+<html>
+				
+				<head>
+								<title>My Personal</title>
+								<link rel="stylesheet" href="style.css">
+				</head>
+				<body>
+						<div class="from">	<h1>My Personal Data</h1></div>
+								<div class="at"><p>Name </p>
+								<p>Min Thiha Kyaw </p>
+								<p>Nice Name </p>
+								<p>Arley </p>
+								<p>brith Day </p>
+								<p>February/04/1996 </p>
+								<p>Class education </p>
+								<p>9th grade </p>
+								<p>Country </p>
+								<p>Myanmar </p>
+								<p>Address </p>
+								<p>Yangon </p>
+								<p>Employment </p>
+								<p>Software&Website Programmer </p>
+								<p>Interest </p>
+								<p>Progrmming/Reading/Hacking part/IT & Networking </p>
+								<p>Offical Telegram </p>
+								<p>https://t.me/Arley074</p>
+								<p>Offical Whatapp </p>
+								<p>(+95)9941949491 </p>
+								<p>Offical Phone </p>
+								<p>(+95)9941949491 </p>
+								<p>Offical Email ></p>
+								<p>minthihakyaw4296@gmail.com</p>
+								<img src="min.jpg" alt="">
+								</div>
+				</body>
+</html>
